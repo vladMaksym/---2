@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(0, 135, 0);
+    font-size: 24px;
+    color: maroon;
+}
+
+a {
+    color: yellow;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
